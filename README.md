@@ -1,6 +1,6 @@
 # klassify-kemal
 
-TODO: Write a description here
+[Klassify](https://github.com/fatiherikli/klassify) backend with Kemal.
 
 ## Installation
 
