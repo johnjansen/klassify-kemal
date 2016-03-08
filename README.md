@@ -6,9 +6,11 @@ TODO: Write a description here
 
 Make sure to have at least `Crystal` v0.12.0.
 
-`git clone https://github.com/sdogruyol/klassify-kemal`
-`cd klassify-kemal && shards install`
-`crystal src/klassify-kemal.cr`
+```
+git clone https://github.com/sdogruyol/klassify-kemal
+cd klassify-kemal && shards install
+crystal src/klassify-kemal.cr
+```
 
 It runs on 3000 by default.
 
