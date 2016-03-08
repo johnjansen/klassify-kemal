@@ -4,19 +4,13 @@ TODO: Write a description here
 
 ## Installation
 
+Make sure to have at least `Crystal` v0.12.0.
 
-TODO: Write installation instructions here
+`git clone https://github.com/sdogruyol/klassify-kemal`
+`cd klassify-kemal && shards install`
+`crystal src/klassify-kemal.cr`
 
-
-## Usage
-
-
-
-TODO: Write usage instructions here
-
-## Development
-
-TODO: Write development instructions here
+It runs on 3000 by default.
 
 ## Contributing
 
